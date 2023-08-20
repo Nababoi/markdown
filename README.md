@@ -52,4 +52,4 @@ console.log("prueba backtips")
 ![VsCode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
 
 ### Prueba branch en git
-Cambios en la rama principal
+cambios extraños que hay en mi
